@@ -1,12 +1,12 @@
 <!-- readme-build:begin banner -->
-![phlepbtw](.github/readme/banner.svg)
+![phlepbtw](.github/readme-build/banner.svg)
 <!-- readme-build:end banner -->
 
 <!-- readme-build:begin badges -->
 <!-- readme-build:end badges -->
 
 <!-- readme-build:begin bento -->
-![phlepbtw](.github/readme/bento.svg)
+![phlepbtw](.github/readme-build/bento.svg)
 <!-- readme-build:end bento -->
 
 <!-- readme-build:begin video -->
