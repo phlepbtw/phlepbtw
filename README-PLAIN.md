@@ -6,8 +6,8 @@ github.com/phlepbtw
 
 ## [my repos](https://github.com/phlepbtw?tab=repositories)
 
-- [i-cooked-this](https://github.com/phlepbtw/i-cooked-this) — stuff I cooked with AI
 - [comfyui-windows-rocm](https://github.com/phlepbtw/comfyui-windows-rocm) (Python · 2 stars)
+- [i-cooked-this](https://github.com/phlepbtw/i-cooked-this) — stuff I cooked with AI
 
 ## [elsewhere](https://showcase.phlep.net)
 
