@@ -6,7 +6,9 @@
 <!-- readme-build:end badges -->
 
 <!-- readme-build:begin bento -->
-![phlepbtw](.github/readme-build/bento.svg)
+<a href="https://github.com/phlepbtw?tab=repositories"><img src=".github/readme-build/tile-1.svg" width="600" align="top" alt="my repos">
+</a><a href="https://showcase.phlep.net"><img src=".github/readme-build/tile-2.svg" width="288" align="top" alt="elsewhere"></a>
+<img src=".github/readme-build/tile-3.svg" width="888" align="top" alt="works in">
 <!-- readme-build:end bento -->
 
 <!-- readme-build:begin video -->

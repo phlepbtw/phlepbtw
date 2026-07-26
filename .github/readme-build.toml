@@ -13,8 +13,8 @@ repo = "phlepbtw"
 meta = "github.com/phlepbtw"
 
 [accent]
-primary = "#24c6f3"
-secondary = "#5cd5f6"
+primary = "#f324f3"
+secondary = "#f65cf6"
 
 [badges]
 enabled = []
@@ -34,6 +34,7 @@ heading = "my repos"
 span = 8
 limit = 6
 order = "pushed"
+link = "https://github.com/phlepbtw?tab=repositories"
 
 [[tiles]]
 kind = "stat"
@@ -42,6 +43,7 @@ span = 4
 value = "showcase.phlep.net"
 body = "the public one"
 feature = true
+link = "https://showcase.phlep.net"
 
 [[tiles]]
 kind = "chips"
