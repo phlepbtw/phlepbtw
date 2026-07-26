@@ -39,8 +39,8 @@ order = "pushed"
 kind = "stat"
 heading = "elsewhere"
 span = 4
-value = "phlep.net"
-body = "the site, the wiki, the reading list"
+value = "showcase.phlep.net"
+body = "the public one"
 feature = true
 
 [[tiles]]
