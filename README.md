@@ -13,6 +13,9 @@ href="https://showcase.phlep.net"><img
 src=".github/readme-build/tile-2.svg" width="268" align="top" alt="elsewhere"></a>
 <img
 src=".github/readme-build/tile-3.svg" width="828" align="top" alt="works in">
+<a
+href="README-PLAIN.md"><img
+src=".github/readme-build/tile-4.svg" width="828" align="top" alt="plain readme"></a>
 <!-- readme-build:end bento -->
 
 <!-- readme-build:begin video -->
