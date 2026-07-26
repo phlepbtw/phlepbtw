@@ -1,39 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="888" height="103" viewBox="0 0 888 103" role="img" aria-label="works in">
+<svg xmlns="http://www.w3.org/2000/svg" width="828" height="103" viewBox="0 0 828 103" role="img" aria-label="works in">
   <title>works in</title>
   <style>
   text { font-family: ui-monospace, "JetBrains Mono", "SFMono-Regular", Menlo, Consolas, "DejaVu Sans Mono", monospace; }
   .heading { font-size: 11px; letter-spacing: 0.12em; fill: #e6e9ef; }
-  .mark { font-size: 11px; fill: #f324f3; }
+  .mark { font-size: 11px; fill: #4e24f3; }
   .value { font-size: 23px; letter-spacing: 0.04em; fill: #e6e9ef; }
   .body { font-size: 12px; fill: #9aa3b2; }
   .lit { font-size: 12px; fill: #e6e9ef; }
   .meta { font-size: 11px; letter-spacing: 0.08em; fill: #9aa3b2; }
   .code { font-size: 11.5px; fill: #e6e9ef; }
-  .chip { font-size: 11px; letter-spacing: 0.06em; fill: #ed7cf1; }
+  .chip { font-size: 11px; letter-spacing: 0.06em; fill: #927cf1; }
   .wordmark { font-size: 40px; letter-spacing: 0.04em; fill: #e6e9ef; }
   .tagline { font-size: 14px; fill: #9aa3b2; }
   .on-accent { fill: #0b0e14; }
   </style>
   <defs>
-    <linearGradient id="accent-fill" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f324f3"/><stop offset="1" stop-color="#f65cf6"/></linearGradient>
+    <linearGradient id="accent-fill" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4e24f3"/><stop offset="1" stop-color="#7b5cf6"/></linearGradient>
   </defs>
-  <rect x="0" y="0" width="888" height="103" rx="10" fill="#151b26" stroke="rgba(255,255,255,0.07)" stroke-width="1"/>
+  <rect x="0" y="0" width="828" height="103" rx="10" fill="#151b26" stroke="rgba(255,255,255,0.07)" stroke-width="1"/>
   <text x="24" y="35" class="mark">◆</text>
   <text x="42" y="35" class="heading">WORKS IN</text>
-  <rect x="24" y="57" width="49.92" height="22" rx="8" fill="none" stroke="#f324f3" stroke-width="1" opacity="0.55"/>
+  <rect x="24" y="57" width="49.92" height="22" rx="8" fill="none" stroke="#4e24f3" stroke-width="1" opacity="0.55"/>
   <text x="34" y="72" class="chip">rust</text>
-  <rect x="81.92" y="57" width="94.80" height="22" rx="8" fill="none" stroke="#f324f3" stroke-width="1" opacity="0.55"/>
+  <rect x="81.92" y="57" width="94.80" height="22" rx="8" fill="none" stroke="#4e24f3" stroke-width="1" opacity="0.55"/>
   <text x="91.92" y="72" class="chip">typescript</text>
-  <rect x="184.72" y="57" width="64.88" height="22" rx="8" fill="none" stroke="#f324f3" stroke-width="1" opacity="0.55"/>
+  <rect x="184.72" y="57" width="64.88" height="22" rx="8" fill="none" stroke="#4e24f3" stroke-width="1" opacity="0.55"/>
   <text x="194.72" y="72" class="chip">python</text>
-  <rect x="257.60" y="57" width="42.44" height="22" rx="8" fill="none" stroke="#f324f3" stroke-width="1" opacity="0.55"/>
+  <rect x="257.60" y="57" width="42.44" height="22" rx="8" fill="none" stroke="#4e24f3" stroke-width="1" opacity="0.55"/>
   <text x="267.60" y="72" class="chip">php</text>
-  <rect x="308.04" y="57" width="42.44" height="22" rx="8" fill="none" stroke="#f324f3" stroke-width="1" opacity="0.55"/>
+  <rect x="308.04" y="57" width="42.44" height="22" rx="8" fill="none" stroke="#4e24f3" stroke-width="1" opacity="0.55"/>
   <text x="318.04" y="72" class="chip">lua</text>
-  <rect x="358.48" y="57" width="72.36" height="22" rx="8" fill="none" stroke="#f324f3" stroke-width="1" opacity="0.55"/>
+  <rect x="358.48" y="57" width="72.36" height="22" rx="8" fill="none" stroke="#4e24f3" stroke-width="1" opacity="0.55"/>
   <text x="368.48" y="72" class="chip">blender</text>
-  <rect x="438.84" y="57" width="49.92" height="22" rx="8" fill="none" stroke="#f324f3" stroke-width="1" opacity="0.55"/>
+  <rect x="438.84" y="57" width="49.92" height="22" rx="8" fill="none" stroke="#4e24f3" stroke-width="1" opacity="0.55"/>
   <text x="448.84" y="72" class="chip">bash</text>
-  <rect x="496.76" y="57" width="94.80" height="22" rx="8" fill="none" stroke="#f324f3" stroke-width="1" opacity="0.55"/>
+  <rect x="496.76" y="57" width="94.80" height="22" rx="8" fill="none" stroke="#4e24f3" stroke-width="1" opacity="0.55"/>
   <text x="506.76" y="72" class="chip">powershell</text>
 </svg>

@@ -13,8 +13,8 @@ repo = "phlepbtw"
 meta = "github.com/phlepbtw"
 
 [accent]
-primary = "#f324f3"
-secondary = "#f65cf6"
+primary = "#4e24f3"
+secondary = "#7b5cf6"
 
 [badges]
 enabled = []
