@@ -1,0 +1,50 @@
+# .github/readme.toml — what `readme-build` renders this README from.
+#
+# Edit this, then re-run `readme-build`. The generated blocks in
+# README.md are replaced; everything between them is left alone.
+
+kind = "profile"
+
+[project]
+name = "phlepbtw"
+tagline = "i cook things with AI 🧑‍🍳"
+owner = "phlepbtw"
+repo = "phlepbtw"
+meta = "github.com/phlepbtw"
+
+[accent]
+primary = "#24c6f3"
+secondary = "#5cd5f6"
+
+[badges]
+enabled = []
+
+[activity]
+repobeats = ""
+
+[video]
+enabled = false
+url = ""
+caption = "a demo goes here"
+note = "render it, drop it into a GitHub comment, paste the URL"
+
+[[tiles]]
+kind = "repos"
+heading = "my repos"
+span = 8
+limit = 6
+order = "pushed"
+
+[[tiles]]
+kind = "stat"
+heading = "elsewhere"
+span = 4
+value = "phlep.net"
+body = "the site, the wiki, the reading list"
+feature = true
+
+[[tiles]]
+kind = "chips"
+heading = "works in"
+span = 12
+items = ["rust", "typescript", "python", "php", "lua", "blender", "bash", "powershell"]
